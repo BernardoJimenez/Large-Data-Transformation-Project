@@ -98,6 +98,6 @@ reason I did not attempt this is because it would show less of my Python and SQL
 knowledge than my AWS knowledge. Perhaps Athena may not the the correct service,
 but I know for sure it could be done through AWS.
 
-A you currently still looking for a job?  
+Are you currently still looking for a job?  
 Yes. Find me on LinkedIn. Looking for work as a Junior Data Engineer or Software Engineer in
 either of the greater NYC or Boston areas.
