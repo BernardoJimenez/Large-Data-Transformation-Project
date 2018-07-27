@@ -27,7 +27,7 @@ So, does the code run?
 It did, but I changed all variables and components to make it unidentifiable with the company's assignment, so it
 won't work if you try to run it on your machine. However, if you read the Assignment Instructions PDF, you'll see
 that my code follows all conventions necessary to theoretically run. If I changed it back to the original it would
-run fune and produce the output described in the PDF.
+run fine and produce the output described in the PDF.
 
 Where can I find the original assignment instructions?  
 I wrote them up in the Assignment Instructions PDF included here.
@@ -98,6 +98,6 @@ reason I did not attempt this is because it would show less of my Python and SQL
 knowledge than my AWS knowledge. Perhaps Athena may not the the correct service,
 but I know for sure it could be done through AWS.
 
-You looking for a job still?  
+A you currently still looking for a job?  
 Yes. Find me on LinkedIn. Looking for work as a Junior Data Engineer or Software Engineer in
 either of the greater NYC or Boston areas.
