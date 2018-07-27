@@ -1,0 +1,21 @@
+0:05:28.710000
+301031
+335372
+336119
+99.85018154276469%
+7f9aa2f96fd7ccca9515599ebf3cab9c,[{"job": "Equality and diversity officer", "company": "Vaughn-Owens"}],[{"job": "Gaffer", "company": "Mathis, Blackburn and Jones"}]
+7f9abad923905b4ee00d5fbd4f6fd7e9,[{"job": "Advertising art director", "company": "Maynard, Jones and Thompson"}],[{"job": "Commercial art gallery manager", "company": "Nguyen, Stout and Lee"}]
+7f9bc7e4168ade5e0e48b342cf03b5ef,[{"job": "Health service manager", "company": "Cohen, Brooks and Benjamin"}],[{"job": "Therapeutic radiographer", "company": "Porter, Howard and Chung"}]
+7f9be9a8160a1367258d12a3b3ec38fd,[{"job": "Orthoptist", "company": "Ford-Davis"}],[{"job": "Music tutor", "company": "Lowery, Roberts and Wheeler"}]
+7f9c46d97d6e5d02fd6c1b5d74dac319,[{"job": "Engineer, control and instrumentation", "company": "Owens Inc"}],[{"job": "Paediatric nurse", "company": "Vargas, Rivera and Huang"}]
+7f9c6c8a7386dbc8c59770f9cf9dab33,[{"job": "Microbiologist", "company": "Jackson Ltd"}],[{"job": "IT consultant", "company": "Hammond-Galloway"}]
+7f9cbc86198e45d273266a7f437e3943,[{"job": "Actor", "company": "Williamson-Lawson"}],[{"job": "Psychotherapist", "company": "Kennedy-Tran"}]
+7f9d3fa3abe9b10fc83b5fb14c5424e9,[{"job": "Accountant, chartered certified", "company": "Mullen LLC"}],[{"job": "Scientist, product/process development", "company": "Brown, Willis and Wiggins"}]
+7f9d50fbae6d20544f25b7a0406ff3f6,[{"job": "Sales promotion account executive", "company": "Jackson-Grant"}],[{"job": "Geneticist, molecular", "company": "Campbell and Sons"}]
+7f9d64687206b6b71f46d7d57a4e6689,[{"job": "Television/film/video producer", "company": "Rodriguez, Decker and Lyons"}],[{"job": "Scientist, clinical (histocompatibility and immunogenetics)", "company": "Morgan Ltd"}]
+CREATE TABLE csv_output_table(
+	id int(11) unsigned NOT NULL AUTO_INCREMENT,
+	emd5 varchar(32) DEFAULT NULL,
+	businessA_JSON_list json DEFAULT NULL,
+	firmB_JSON_list json DEFAULT NULL,
+	PRIMARY KEY (id));
