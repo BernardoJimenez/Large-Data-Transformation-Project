@@ -100,4 +100,4 @@ but I know for sure it could be done through AWS.
 
 Are you currently still looking for a job?  
 Yes. Find me on LinkedIn. Looking for work as a Junior Data Engineer or Software Engineer in
-either of the greater NYC or Boston areas.
+either of the greater NYC or Boston areas.  
