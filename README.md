@@ -13,7 +13,8 @@ I can't say. Not that there was a non-disclosure or anything like that, but out 
 Isn't it in bad taste to post your solution at all?  
 I removed all information that could be traced back to the initial company giving the assignment. Someone googling
 for answers to this assignment is not going to find mine. Additionally, I worked on this assignment unpaid for
-5 hours before I even got a phone screening. I wouldn't let such good work go to waste.
+5 hours before I even got a phone screening. I wouldn't let such good work go to waste. It wouldn't matter if you
+knew or guessed in any case.
 
 If your solution is so great, why didn't you get the job?  
 I was told I didn't have enough experience in Spark and Scala for this (entry-level) position.
